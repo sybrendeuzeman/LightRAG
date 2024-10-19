@@ -1,4 +1,5 @@
 __pycache__
 *.egg-info
 dickens/
-book.txt
+book.txt\
+venv/
